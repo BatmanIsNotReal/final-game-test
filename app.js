@@ -14,7 +14,7 @@ console.log("Server started");
 
 var SOCKET_LIST = {};
 var PLAYER_LIST = {};
-
+// patrick har ændret noget
 var Player = function(id){
 	var self = {
 		x:250,
